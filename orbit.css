@@ -1,0 +1,10 @@
+/*orbit.css version: 0.2*/
+body{
+    background-color: #ddaf87;
+}
+.celestial{
+  background-color: #e2d8a3;
+  border-radius: 50px;
+  position: absolute;
+
+}
